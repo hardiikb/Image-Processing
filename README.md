@@ -1,0 +1,1 @@
+Project to detect edges and rebuild images using convolution and correlation.
